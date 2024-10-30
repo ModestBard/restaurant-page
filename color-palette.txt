@@ -1,0 +1,41 @@
+Here’s a color palette to complement the luxurious, warm aesthetic of your restaurant website landing page:
+
+### Color Palette for **Gourmet Escape** Restaurant Website
+
+1. **Deep Charcoal (#2E2E2E)**
+
+   - **Usage**: Background for main sections, text overlay on light elements.
+   - **Purpose**: Creates a moody, upscale ambiance and contrasts well with accent colors.
+
+2. **Warm Gold (#D4AF37)**
+
+   - **Usage**: Accent for buttons, hover effects, icons, borders, and dividers.
+   - **Purpose**: Adds a touch of elegance and draws attention to interactive elements like CTAs and icons.
+
+3. **Crimson Red (#B22222)**
+
+   - **Usage**: Secondary accent color for emphasis on headings, menu highlights, or to add subtle warmth to images and sections.
+   - **Purpose**: Infuses a sense of warmth and appetite appeal, ideal for culinary themes.
+
+4. **Muted Ivory (#F8F5F0)**
+
+   - **Usage**: Text on dark backgrounds, section backgrounds, and subtle highlights.
+   - **Purpose**: Balances the dark theme with readability and lightness without overpowering the elegance.
+
+5. **Sage Green (#556B2F)**
+
+   - **Usage**: For subtle accents in secondary icons, footer highlights, and testimonials section.
+   - **Purpose**: Adds an organic, fresh tone that pairs well with the warm hues and subtly hints at quality ingredients.
+
+6. **Café Brown (#8B4513)**
+   - **Usage**: Backgrounds for sections that need to feel warmer or more grounded, like the chef's story or gallery section.
+   - **Purpose**: Complements the dark theme and adds a welcoming, rustic feel.
+
+### Suggested Implementation
+
+- **Backgrounds**: Deep Charcoal, Café Brown for depth.
+- **Buttons & Links**: Warm Gold with hover effect in Crimson Red.
+- **Text**: Ivory for readability, with occasional Warm Gold highlights for headings.
+- **Icons & Borders**: Mix of Gold and Sage Green for a subtle, elegant look.
+
+This palette will create a refined, welcoming atmosphere across your site, enhancing the immersive feel of the landing page while maintaining readability and elegance throughout.

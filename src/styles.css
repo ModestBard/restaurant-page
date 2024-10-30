@@ -1,3 +1,25 @@
 body {
   background-color: rgba(248, 92, 92, 0.915);
+  margin: 0px;
+}
+
+nav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+.tag-line {
+  color: white;
+  font-weight: 700;
+  position: absolute;
+  font-size: 3rem;
+  top: 0;
+}
+.hero-image {
+  width: 100%; /* Ensures full width */
+  height: auto; /* Maintains aspect ratio */
+  max-height: 720px; /* Adjust this to your desired height */
+  object-fit: cover;
 }
